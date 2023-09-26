@@ -12,7 +12,7 @@ The data from aws cloud page is collected using web-scrapping (selenium and beau
 ## Installation
 
 - Clone the repository: git clone https://github.com/venkatavinayvijjapu/QA-on-AWS.git.
-- Download and run the cells in jupyter nnotebook.
+- Download and run the cells in jupyter notebook.
 ## Usage
 
 - Ask questions related to the web page.
